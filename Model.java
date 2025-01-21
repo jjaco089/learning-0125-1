@@ -1,7 +1,7 @@
 class Model {
-    int num;
-    int inc;
-    int dec;
+    private int num;
+    private int inc;
+    private int dec;
     Model(int num, int inc, int dec) {
         this.num = num;
         this.inc = inc;
